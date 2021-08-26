@@ -1,4 +1,35 @@
-### Hi there 👋
+### Olá, eu sou o Jonatas Ribeiro.
+
+
+<div>
+  <a href="https://github.com/jonataspribeiro">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonatasribeiro&theme=merko&show_icons=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspribeiro&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+  
+   <img align="center" alt="Jonatas-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Jonatas-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Jonatas-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Jonatas-Angular" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Jonatas-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jonatas-Ts" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jonatas-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jonatas-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Jonatas-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="right" alt="Jonatas-Github" src="http://66.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="200" width="200">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/jonataspribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonataspalumbo1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/jonataspribeiro/jonataspribeiro/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
 <!--
 **jonataspribeiro/jonataspribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
